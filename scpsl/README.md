@@ -12,4 +12,4 @@ After server creation, if using MultiAdmin, create a folder inside the servers f
 ### Server Port
 The server will run on port 7777 by default.
 
-#### Plugins can be added to the server using ServerMod. A list of available plugins is available from their [Discord] (https://discord.gg/8nvmMTr)
+#### Plugins can be added to the server using ServerMod. A list of available plugins is available from their [Discord](https://discord.gg/8nvmMTr)
