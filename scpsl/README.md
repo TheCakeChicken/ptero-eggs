@@ -5,8 +5,6 @@ This egg is built to run using [MultiAdmin](https://github.com/Grover-c13/MultiA
 However, you can still run this server using the default LocalAdmin.exe by modifying the Startup File variable.
 
 ### Install notes
-When setting up the server, you should provide Steam credentials for an account which has SCP:SL in it's library, otherwise the install may fail.
-
 After server creation, if using MultiAdmin, create a folder inside the servers folder for your configuration.
 
 ### Server Port
