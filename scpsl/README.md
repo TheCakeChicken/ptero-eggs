@@ -4,6 +4,8 @@
 This egg is built to use SCP:SL Dedicated Server, due to compatibility issues with ServerMod due to recent updates.
 The egg will be updated again once ServerMod is compatible.
 
+#### The account details given during server setup MUST have Steam Guard disabled and have [this](https://steamdb.info/app/996560/) in the library, to prevent SteamCMD issues. It is not recommended to use your main account for this.
+
 ### Server Port
 The server will run on port 7777 by default.
 
